@@ -1,2 +1,2 @@
-print("perro feo")
+print("holaniño")
 print("Hola curso de lol")
